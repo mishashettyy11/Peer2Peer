@@ -5,7 +5,7 @@ Welcome to the **Mini BitTorrent-like Peer-to-Peer File Sharing System**! Follow
 ---
 
 ## 📌 Repository URL
-**GitHub Repository:** [https://github.com/manjunathashetty548/Peer2peer](https://github.com/manjunathashetty548/Peer2peer)
+**GitHub Repository:** [https://github.com/mishashettyy11/Peer2Peer](https://github.com/mishashettyy11/Peer2Peer)
 
 ---
 
